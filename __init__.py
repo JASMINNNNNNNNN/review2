@@ -1,0 +1,5 @@
+__AUTHOR__ = "Kai König, kai.koenig@airbus.com"
+__COPYRIGHT__ = "Copyright 2023, Airbus"
+__DATE__ = "2023-09-25"
+__VERSION__ = "0.1.4"
+__STATUS__ = "PoC"

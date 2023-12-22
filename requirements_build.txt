@@ -1,0 +1,7 @@
+-r requirements.txt
+twine
+build
+pytest
+pytest-cov
+responses
+flake8

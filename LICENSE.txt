@@ -1,0 +1,6 @@
+[AIRBUS INTERNAL]
+
+Copyright (c) 2020 Airbus Operations GmbH
+
+Airbus, Security Requirements for Classification and Protection of Information,
+Airbus Company Directive A1044, Issue E, 15.09.2014

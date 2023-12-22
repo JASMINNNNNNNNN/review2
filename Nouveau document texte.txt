@@ -1,0 +1,16 @@
+# Required metadata
+sonar.projectKey=org.sonarqube:python-sonar-scanner
+sonar.projectName=Python :: PYTHON! : SonarQube Scanner
+sonar.projectVersion=1.0
+sonar.login=yesmine
+sonar.password=yesmine
+# Comma-separated paths to directories with sources (required)
+sonar.sources=PATH_DU_REPERTOIRE_A_SCANNER
+
+# Language
+sonar.language=py
+
+# Encoding of the source files
+sonar.sourceEncoding=UTF-8
+
+sonar.host.url=http://IP_DU_SONAR:9000
